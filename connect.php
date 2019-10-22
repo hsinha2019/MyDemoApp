@@ -28,18 +28,6 @@
   <div align="center">
     <h1>Hello P15</h1>
     <h2>This is version 1.5 of Demo Application</h2>
-    <h3><?php
-        $username = "demoApp";
-        $password = "demoApp";
-        $hostname = "yourhostnameaddress";
-        $dbname = "demoApp";
-
-        //connection to the database
-        $dbhandle = mysql_connect($hostname, $username, $password) or die("Unable to connect to MySQL");
-        echo "Connected to MySQL using username - $username, password - $password, host - $hostname<br>";
-        $selected = mysql_select_db("$dbname",$dbhandle)   or die("Unable to connect to MySQL DB - check the database name and try again.");
-        ?>
-      </h3>
     </div>
   </body>
 </html>
