@@ -27,7 +27,7 @@
 <body>
   <div align="center">
     <h1>Hello P15</h1>
-    <h2>This is version 1.5 of Demo Application</h2>
+    <h2>This is version 2.0 of Demo Application</h2>
     </div>
   </body>
 </html>
