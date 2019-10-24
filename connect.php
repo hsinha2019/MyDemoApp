@@ -6,7 +6,7 @@
   <style>
     body {
       color: #000000;
-      background-color: #0000FF;
+      background-color: #00FF00;
       font-family: Arial, sans-serif;
       font-size: 14px;
     }
@@ -27,7 +27,7 @@
 <body>
   <div align="center">
     <h1>Hello P15</h1>
-    <h2>This is version 2.1 of Demo Application</h2>
+    <h2>This is version 2.2 of Demo Application</h2>
     </div>
   </body>
 </html>
