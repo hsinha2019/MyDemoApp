@@ -2,11 +2,11 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>CodeDeploy Lab</title>
+  <title>Continous Deployment</title>
   <style>
     body {
       color: #000000;
-      background-color: #00FF00;
+      background-color: #0000FF;
       font-family: Arial, sans-serif;
       font-size: 14px;
     }
