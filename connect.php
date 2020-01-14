@@ -27,7 +27,7 @@
 <body>
   <div align="center">
     <h1>Hello DHHS Cloud Team</h1>
-    <h2>This is version 3.0 of Demo Application</h2>
+    <h2>This is version 3.1 of Demo Application</h2>
     </div>
   </body>
 </html>
